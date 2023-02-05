@@ -65,15 +65,15 @@ Permes type=" " e ndryshon kontrollin
 
  * readonly ->  mund vetem te lexohet por jo edit, dallohet nga tjerat sepse nuk e ka shenjen barabarte, pra nuk ka "Attribute Value".
 
- button ->  i dergon te dhenat e formes.
+ * button ->  i dergon te dhenat e formes.
 
- required ->   nuk dergohen te dhenat nese jane te zbrazeta box, nuk behet submit  "Please fill out this field".
+ * required ->   nuk dergohen te dhenat nese jane te zbrazeta box, nuk behet submit  "Please fill out this field".
 
- name= ->  shfaqet ne URL kur behet submit sepse eshte e paradefinuar si method GET. Query String
+ * name= ->  shfaqet ne URL kur behet submit sepse eshte e paradefinuar si method GET. Query String
 
- pattern=  ->  Vendosim nje kriter se cka te pranojme, numra apo shkronja, psh "[0-9]" pranohet nje numer nga 0-9, nese shtojme + atehere "[0-9]+" pranohen kombinime.
+ * pattern=  ->  Vendosim nje kriter se cka te pranojme, numra apo shkronja, psh "[0-9]" pranohet nje numer nga 0-9, nese shtojme + atehere "[0-9]+" pranohen kombinime.
 
- hidden ->  Nuk eshte relevante per perdoruesin por per validim apo back-end.
+ * hidden ->  Nuk eshte relevante per perdoruesin por per validim apo back-end.
 
  
 
