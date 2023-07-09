@@ -1,3 +1,4 @@
+TABELAT
 Definohen permes etikes <form> dhe jane menyre per me mbledh te dhena nga perdoruesit:
  * si te bejme nje kontroll per me vendose txt
  * si me zgjedh njeren nga disa opsione
@@ -7,6 +8,7 @@ Definohen permes etikes <form> dhe jane menyre per me mbledh te dhena nga perdor
  * krijim te butonit
 
 
+UEB FORMULARET
 Paraqesin rrezik nese nuk validohen, jane dy menyra te validimit;
   1. nga ana e klientit - JS
   2. nga ana e serverit - Python
@@ -16,13 +18,9 @@ Paraqesin rrezik nese nuk validohen, jane dy menyra te validimit;
 ATRIBUTET E FORMULARIT
 
 action="#" ->  Te tregoj se kush do te jete skripta qe do ti procesoj te dhenat. Atributi action specifikon se ku te dergohen te dhenat e formularit kur dorezohet nje formular.
-
 accept-charset="UTF-8"
-
 method="get" -> Ky atribut specifikon se si te dergohen te dhenat e formularit (te dhenat dergohen ne faqen e specifikuar ne atributin "action").
-
 enctype="#" ->  Vendos kur formulari yne bene upload file.
-
 autocomplete="off" ->  Nese eshte ON eshte ne rregull, nese eshte OFF me u ndal auto-suggestion qe te kompletohen fjalit ne menyre automatike.
 
 
